@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(170, 122, 63);
+}
+/* universal selector */
+*{
+
+}
+
+/* element selectr */
+/*
+h1{
+    color: black;
+}
+p{
+    color: brown;
+}
+*/
+
+/* class selector */
+
+.pra{
+    color: chartreuse;
+}
+
+.hello{
+    font-size: 60px;
+}
+
+/* Id selector */
+
+#id1 {
+color: aliceblue;
+background-color: blue;
+}
+
+/* selector list */
+
+.class1 , .class6 ,.class8{
+    color: cornflowerblue;
+    background-color: green;
+}
